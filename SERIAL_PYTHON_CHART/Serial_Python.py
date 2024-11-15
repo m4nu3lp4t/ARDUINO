@@ -38,16 +38,6 @@ class Scope:
         return self.line,
 
 
-def emitter(p=0.1):
-    """Return a random value in [0, 1) with probability p, else 0."""
-    while True:
-        v = np.random.rand()
-        if v > p:
-            yield 0.
-        else:
-            yield np.random.rand()
-
-
 def sensor():
     while True:
         resu = float(ser.readline()) / 1023
