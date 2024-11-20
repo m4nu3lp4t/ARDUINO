@@ -1,6 +1,6 @@
 ## Programming the Serial Port using Python
 
-![serial_python](https://github.com/user-attachments/assets/90dd6414-c9d4-4eb3-bea8-c417d3d4d95c)
+![serial_python_chart](https://github.com/user-attachments/assets/1a924279-bca0-430f-90b7-4943a020cc07)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
