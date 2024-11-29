@@ -1,11 +1,12 @@
 ## Programming the Serial Port using Python
 
-![388226677-1a924279-bca0-430f-90b7-4943a020cc07](https://github.com/user-attachments/assets/efb14187-58d7-4e4f-a76c-5f4e38213516)
+![_DC_CONTROLLER_01](https://github.com/user-attachments/assets/7f6dbc2a-b760-4f24-bdd2-c6e8b2149b7b)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - The code uses the SerialPort class from Serial Module
 - Code opens up a Serial port on Windows PC for communiating with a Microcontroller board (MSP430 Launchpad/Renesas RA4M1).
+- Project uses Python GUI controlling Speed, Rotation and configures Serial Comm Parameters
 - Code transmits and receives between PC and Micro Conntroller
 - The code also shows how to control the **RTS and DTR pins of the serial Port**
 
