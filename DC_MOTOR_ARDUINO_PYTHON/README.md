@@ -5,8 +5,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - The code uses the SerialPort class from Serial Module
-- Code opens up a Serial port on Windows PC for communiating with a Microcontroller board (MSP430 Launchpad/Renesas RA4M1).
-- Project uses Python GUI controlling Speed, Rotation and configures Serial Comm Parameters
+- Code opens up a Serial port on Windows PC for communiating with a Microcontroller board (ATmega328P).
+- Project uses Python GUI controlling speed, rotation and configures Serial Comm Parameters
 - Code transmits and receives between PC and Micro Conntroller
 - The code also shows how to control the **RTS and DTR pins of the serial Port**
 
